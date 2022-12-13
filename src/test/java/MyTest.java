@@ -11,4 +11,9 @@ public class MyTest {
     @Test
     public void test_method_2() {
     }
+    
+    @Test
+    public void test_method3() { 
+       Demo d2 = new Demo();
+     }
 }
