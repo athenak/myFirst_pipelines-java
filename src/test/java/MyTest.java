@@ -16,8 +16,8 @@ public class MyTest {
     public void test_method3() { 
        Demo d2 = new Demo();
         d.DoSomething(true);
-        String expected = ""I am covered"";
-        String actual = ""I am covered"";
+        String expected = "I am covered";
+        String actual = "I am covered";
 
         assertEquals(expected, actual);
      }
